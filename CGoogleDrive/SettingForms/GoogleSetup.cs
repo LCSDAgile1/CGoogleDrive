@@ -167,14 +167,14 @@ namespace CGoogleDrive.SettingForms
                 string selectedPath = string.Empty;
                 var t = new Thread((ThreadStart)(() =>
                 {
-                    FolderBrowserDialog fbd = new FolderBrowserDialog();
-                    //fbd.InitialDirectory = Environment.CurrentDirectory;
-                    fbd.RootFolder = System.Environment.SpecialFolder.MyComputer;
-                    //fbd.Filter = "CSV File|*.csv";
+                    OpenFileDialog fbd = new OpenFileDialog();
+                    fbd.InitialDirectory = Environment.CurrentDirectory;
+                    //fbd.RootFolder = System.Environment.SpecialFolder.MyComputer;
+                    fbd.Filter = "p12 File|*.p12";
                     if (fbd.ShowDialog() == DialogResult.Cancel)
                         return;
 
-                    selectedPath = fbd.SelectedPath;
+                    selectedPath = fbd.FileName;
                 }));
 
                 t.SetApartmentState(ApartmentState.STA);

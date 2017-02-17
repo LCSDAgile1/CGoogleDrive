@@ -30,7 +30,6 @@
 \\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.exe
 \\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.pdb
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDrive.exe
-C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\adminsdk.p12
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDrive.exe.config
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.dll
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.PlatformServices.dll

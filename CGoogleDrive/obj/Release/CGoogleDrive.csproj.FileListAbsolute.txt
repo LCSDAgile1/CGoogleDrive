@@ -1,5 +1,4 @@
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Release\CGoogleDrive.exe.config
-C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Release\adminsdk.p12
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Release\CGoogleDrive.exe
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Release\CGoogleDrive.pdb
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Release\Google.Apis.Auth.dll
@@ -52,3 +51,4 @@ C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Release\CGoogleDr
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Release\CGoogleDrive.csproj.GenerateResource.Cache
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Release\CGoogleDrive.exe
 C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Release\CGoogleDrive.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Release\CGoogleDrive.csprojResolveAssemblyReference.cache

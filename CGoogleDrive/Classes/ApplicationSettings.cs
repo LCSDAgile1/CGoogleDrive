@@ -73,7 +73,7 @@ namespace CGoogleDrive
             keyFilePath = string.Empty;
             applicationName = string.Empty;
             maxParallel = "1";
-            clearOutput = string.Empty;
+            clearOutput = "False";
             filter = string.Empty;
 
             inputType = string.Empty;

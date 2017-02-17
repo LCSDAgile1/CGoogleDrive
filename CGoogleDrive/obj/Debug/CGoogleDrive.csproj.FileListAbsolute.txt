@@ -1,0 +1,86 @@
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDrive.exe.config
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\adminsdk.p12
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDrive.exe
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDrive.pdb
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.dll
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Core.dll
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.dll
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Drive.v3.dll
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.PlatformServices.dll
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\log4net.dll
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Newtonsoft.Json.dll
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Zlib.Portable.dll
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.pdb
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.xml
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.pdb
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.xml
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Core.pdb
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Core.xml
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Drive.v3.pdb
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Drive.v3.xml
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.PlatformServices.pdb
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.PlatformServices.xml
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\log4net.xml
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Newtonsoft.Json.xml
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\bin\Debug\Zlib.Portable.xml
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.csprojResolveAssemblyReference.cache
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.exe
+\\lcsd.local\home\9144\jasoncst\my documents\visual studio 2012\Projects\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDrive.exe
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\adminsdk.p12
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDrive.exe.config
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Core.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\log4net.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\MongoDB.Bson.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\MongoDB.Driver.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\MySql.Data.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Zlib.Portable.dll
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Core.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Core.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\log4net.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\MongoDB.Bson.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\MongoDB.Driver.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\Zlib.Portable.xml
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.DataPreview.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SetupForm.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.ApplicationSetup.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.GoogleSetup.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.input.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.inputFlat.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.inputMongoDB.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.inputMySQL.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.inputSQL.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.output.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.outputFlat.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.outputGlobal.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.outputMongoDB.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.outputMySQL.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.SettingForms.outputSQL.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.csproj.GenerateResource.Cache
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.exe
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDrive.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\obj\Debug\CGoogleDrive.csprojResolveAssemblyReference.cache

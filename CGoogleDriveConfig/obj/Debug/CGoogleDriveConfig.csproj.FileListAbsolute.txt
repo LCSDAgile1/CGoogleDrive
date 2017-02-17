@@ -1,0 +1,12 @@
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDriveConfig\bin\Debug\CGoogleDriveConfig.exe.config
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDriveConfig\bin\Debug\CGoogleDriveConfig.exe
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDriveConfig\bin\Debug\CGoogleDriveConfig.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDriveConfig\obj\Debug\CGoogleDriveConfig.csprojResolveAssemblyReference.cache
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDriveConfig\obj\Debug\CGoogleDriveConfig.Form1.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDriveConfig\obj\Debug\CGoogleDriveConfig.Properties.Resources.resources
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDriveConfig\obj\Debug\CGoogleDriveConfig.csproj.GenerateResource.Cache
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDriveConfig\obj\Debug\CGoogleDriveConfig.exe
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDriveConfig\obj\Debug\CGoogleDriveConfig.pdb
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDriveConfig.exe.config
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDriveConfig.exe
+C:\Users\jasoncst\Working Folder\CGoogleDrive\CGoogleDrive\bin\Debug\CGoogleDriveConfig.pdb
